@@ -97,3 +97,4 @@ information follow:
 When importing the plugin code use `import "code.cloudfoundry.org/cli/v9/plugin"`.
 Older plugins that import `github.com/cloudfoundry/cli/plugin` will still work
 as long they vendor the plugins directory.
+Created by Jason Scott Heise
